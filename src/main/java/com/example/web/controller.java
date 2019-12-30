@@ -38,7 +38,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping({"/etudiant"})
+@RequestMapping({"/etudiants"})
 
 public class controller {
 @Autowired
